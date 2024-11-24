@@ -1,13 +1,13 @@
 {
-  "name": "PathTech",
-  "homepage": "https://https://gitub.com/RihamAlHasan/PathTech.git",
+  "name": "pa",
+  "homepage": "https://github.com/RihamAlHasan/pa.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
